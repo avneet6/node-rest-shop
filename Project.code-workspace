@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Project"
+		},
+		{
+			"path": "../../../answer"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../expenses"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "answer"
+	}
+}
